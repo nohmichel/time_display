@@ -1,0 +1,38 @@
+body {
+	width: 800px;
+	margin: auto;
+}
+
+#title {
+	width: 300px;
+	margin: auto;
+	display: block;
+	position: center;
+	padding: 10px;
+}
+
+p {
+	width: 300px;
+	height: 30px;
+	border: 1px solid black;
+	margin: 0px 5px 20px 0px;
+	text-align: center;
+	color: red;
+	font-family: verdana;
+}
+
+#time{
+	width: 700px;
+	height: 100px;
+	border: 1px solid black;
+	margin: auto;
+	position: center;
+}
+h1{
+	width: 250px;
+	height: 150px;
+	margin: auto;
+	text-align: center;
+	font-family: verdana;
+	
+}
